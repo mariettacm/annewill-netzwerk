@@ -1,0 +1,27 @@
+id,name,type,party,sector,country
+500,Folge 500,2,,Medien,Deutschland
+501,Folge 501,2,,Medien,Deutschland
+502,Folge 502,2,,Medien,Deutschland
+503,Folge 503,2,,Medien,Deutschland
+CDU,CDU,2,,Partei,Deutschland
+SPD,SPD,2,,Partei,Deutschland
+FDP,FDP,2,,Partei,Deutschland
+Gruene,Buendnis 90 Die Gruenen,2,,Partei,Deutschland
+Linke,Die Linke,2,,Partei,Deutschland
+uvdl,Ursula von der Leyen,1,CDU,Politik,EU
+lk,Lars Klingbeil,1,SPD,Politik,Deutschland
+nr,Norbert Roettgen,1,CDU,Politik,Deutschland
+sw,Sahra Wagenknecht,1,Linke,Politik,Deutschland
+cs,Constanze Stelzenmueller,1,,Wissenschaft,Deutschland
+cl,Christian Lindner,1,FDP,Politik,Deutschland
+ks,Karl Schloegel,1,,Wissenschaft,Deutschland
+lm,Ljudmyla Melnyk,1,,Wissenschaft,Ukraine
+kd,Kristina Dunz,1,,Journalismus,Deutschland
+el,Egils Levits,1,,Politik,Lettland
+ab,Annalena Baerbock,1,Gruene,Politik,Deutschland
+ft,Frans Timmermans,1,,Politik,EU
+agl,Alexander Graf Lambsdorff,1,FDP,Politik,Deutschland
+cm,Claudia Major,1,,Wissenschaft,Deutschland
+rh,Robert Habeck,1,Gruene,Politik,Deutschland
+rk,Roderich Kiesewetter,1,CDU,Politik,Deutschland
+kp,Katja Petrowskaja,1,,Journalismus,Ukraine
